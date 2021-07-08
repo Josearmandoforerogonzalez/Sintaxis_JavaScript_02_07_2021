@@ -1,4 +1,4 @@
-
+alert("hola mundo")
 nombreString = "jose";
 edadNumber = 21;
 soyProfesorBolea = true;
