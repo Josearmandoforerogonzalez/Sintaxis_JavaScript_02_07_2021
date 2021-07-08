@@ -18,7 +18,7 @@ console.log(hobbiesArray);
 console.log(direccionPersonalObjected);
 
 console.log(`Datos de la variable tipo Array:`,hobbiesArray["Soy profesor"], hobbiesArray[0]);
-console.log(`Datos de la variable tipo Object:`,dirrecionPersonalObjecte.pais, dirrecionPersonalObjecte[0]);
+console.log(`Datos de la variable tipo Object:`,direccionPersonalObjected.pais, direccionPersonalObjected[0]);
 
 
 
