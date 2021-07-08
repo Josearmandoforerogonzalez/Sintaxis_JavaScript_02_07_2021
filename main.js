@@ -7,7 +7,7 @@ cocerUndefined = undefined;
 hobbiesArray = ["Programar","Cocin", 3043640755, null];
 hobbiesArray["Soy profesor"] = soyProfesorBolea;
 
-direccionPersonalObjeted = {
+direccionPersonalObject = {
     direccion: "calle 30",
     pais: "colombia",
     mundo: "tierra",
@@ -15,10 +15,10 @@ direccionPersonalObjeted = {
 };
 
 console.log(hobbiesArray);
-console.log(direccionPersonalObjeted);
+console.log(direccionPersonalObject);
 
 console.log(`Datos de la variable tipo Array:`,hobbiesArray["Soy profesor"], hobbiesArray[0]);
-console.log(`Datos de la variable tipo Object:`,direccionPersonalObjeted.pais, direccionPersonalObjeted[0]);
+console.log(`Datos de la variable tipo Object:`,direccionPersonalObject.pais, direccionPersonalObject[0]);
 
 
 
