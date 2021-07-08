@@ -4,7 +4,7 @@ edadNumber = 21;
 soyProfesorBolea = true;
 estudiantesAprobadosDiplomadoNull = null;
 cocerUndefined = undefined;
-hobbiesArray = ["Programar","Cocino", 3043640755, null];
+hobbiesArray = ["Programar","Cocin", 3043640755, null];
 hobbiesArray["Soy profesor"] = soyProfesorBolea;
 
 direccionPersonalObjeted = {
