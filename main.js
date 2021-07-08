@@ -15,10 +15,10 @@ direccionPersonalObjeted = {
 };
 
 console.log(hobbiesArray);
-console.log(direccionPersonalObjected);
+console.log(direccionPersonalObjeted);
 
 console.log(`Datos de la variable tipo Array:`,hobbiesArray["Soy profesor"], hobbiesArray[0]);
-console.log(`Datos de la variable tipo Object:`,direccionPersonalObjected.pais, direccionPersonalObjected[0]);
+console.log(`Datos de la variable tipo Object:`,direccionPersonalObjeted.pais, direccionPersonalObjeted[0]);
 
 
 
